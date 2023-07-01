@@ -9,7 +9,7 @@ import Nopage from './components/Nopage';
 import MailConfirm from './components/MailConfirm';
 
 
-export const URL = "http://localhost:12000"
+export const URL = "https://authentication-be.onrender.com"
 
 function App() {
   return (
