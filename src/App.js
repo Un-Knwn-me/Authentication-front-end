@@ -28,7 +28,7 @@ function App() {
           <MailConfirm/>
         </Route>
 
-        <Route path="/reset-password/:token">
+        <Route path="/reset-password/:id/:token">
           <ResetPassword/>
         </Route>
 
